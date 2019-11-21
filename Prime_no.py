@@ -1,5 +1,5 @@
 num = int(input("Enter any number: "))
-if num<1:
+if num<2:
     print("Not a Prime number")
 else:
     
